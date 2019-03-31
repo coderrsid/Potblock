@@ -1,0 +1,56 @@
+.filtercriteria {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    width: 80vw;
+}
+
+.criteriacontainer {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 80%;
+}
+
+.criteriacontainer div {
+    height: 50%;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.criteriacontainer div p {
+    margin-top: 1.2em;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 900;
+}
+
+.criteriacontainer div:first-child {
+    margin: auto;
+    background-color: rgb(30, 36, 44);
+}
+.criteriacontainer div:last-child {
+    margin: auto;
+    background-color: rgb(47, 100, 138);
+}
+
+.value-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.value-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.value-container li:first-child {
+    padding-bottom: 10px;
+}

@@ -1,0 +1,90 @@
+.home-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.logininfo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 120vh;
+    min-width:15vw;
+    box-shadow: 10px 0px 71px -25px rgba(222,227,242,0.5);
+    overflow: hidden;
+    padding: 0px 5px;
+}
+
+.logininfo-container li {
+    border-top: 1px solid lightgray;
+    list-style: none;
+    text-align: center;
+    height: 2em;
+    padding-top: 13px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.logininfo-container li:active {
+    background-color: #2B6488;
+    color: white;
+}
+
+.logininfo-container li:last-child {
+    border-bottom: 1px solid lightgray;
+}
+
+.logininfo-container input {
+    display: inline-block;
+    width: 80%;
+    height: 2em;
+}
+
+.logininfo-container ul {
+    padding: 0px;
+    width: 100%;
+}
+
+.logininfo-container .icon {
+    width: 230px;
+    height: 230px;
+    background-image: url("../../icon//icon.jpg");
+    background-size: 100%;
+    object-fit: contain;
+    margin-bottom: 10px;
+
+}
+
+.user {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.user p{
+    margin: 5px;
+}
+
+a:visited {
+    color: black;
+}
+
+.logininfo-container .user {
+    background-color: rgb(230, 230, 230);
+    width: 100%;
+    height: 42%;
+}

@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'DyeLine';
+    src: url(../../fonts/DyeLine-Regular5.ttf);
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 90vh;
+}
+
+.login-container h1 {
+    font-family: 'DyeLine';
+    color: #fff;
+    font-size: 8em;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.login-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 15px 30px 0 rgba(0,0,0,0.11),
+            0 5px 15px 0 rgba(0,0,0,0.08);
+    border-radius: 15px;
+    width: 50vw;
+    min-height: 50vh;
+    padding: 20px 50px;
+    overflow: hidden;
+    background-color: white;
+}
+
+.inner-container {
+    flex-wrap: wrap;
+}
+
+.phone-input {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.phone-input button {
+    border-radius: 0px 15px 15px 0px;
+}
+
