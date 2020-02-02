@@ -1,6 +1,7 @@
 <h1 align="center"> Pot Block </h1> <br>
 <p align="center">
-	![icon](https://user-images.githubusercontent.com/35633575/73610245-3ebe7b00-45fb-11ea-81ec-70db42f4125f.png)
+	<img width="1038" alt="Screenshot 2020-02-02 at 8 29 53 PM" src="https://user-images.githubusercontent.com/35633575/73610378-7aa61000-45fc-11ea-80f9-bc1724291667.png">
+
 </p>
 
 <table>
