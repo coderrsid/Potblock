@@ -60,7 +60,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Built with
 
 - [ReactJS](https://reactjs.org/) - React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
-- [NPM](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.
+- [NPM](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.<br>
 -[FireBase](https://firebase.google.com/) - Firebase lets you build more powerful, secure and scalable apps, using world-class infrastructure.
 
 ## Developer
