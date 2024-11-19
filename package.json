@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^5.9.2",
+    "firebase": "^10.9.0",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-recaptcha": "^2.3.10",
